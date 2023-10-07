@@ -8,7 +8,7 @@ this is an AI-powered, all-in-one financial management platform that offers a ho
 - The notebooks for the ML algorithms for :
 1- Spending predictions
 2- Recommandaton functionnalities
-3- Fraud detection (+Dataset uploaded from Kaggle)
+3- Fraud detection (+Dataset uploaded from Kaggle : https://drive.google.com/file/d/1z3nSwHZkJM0RaGo_xJWBA9s9fSEMRZFA/view?usp=sharing )
 
 ## Getting Started
 
